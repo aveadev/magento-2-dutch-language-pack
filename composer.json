@@ -1,0 +1,22 @@
+{
+  "name": "aveadev/magento-2-dutch-language-pack",
+  "description": "Dutch language package for Magento 2",
+  "type": "magento2-language",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Avea",
+      "email": "info@avea.dev",
+      "homepage": "https://www.avea.dev",
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
