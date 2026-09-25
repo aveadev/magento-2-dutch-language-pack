@@ -240,7 +240,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.,module,Magento_CatalogWidget
 <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.,module,Magento_CatalogWidget
 ",module,Magento_CatalogWidget
-%1: Line %2,%1: Line %2,module,Magento_Checkout
+%1: Line %2,%1: Regel %2,module,Magento_Checkout
 Status,status,module,Magento_CheckoutAgreements
 HTML,HTML,module,Magento_CheckoutAgreements
 ID,ID,module,Magento_CheckoutAgreements
@@ -1656,7 +1656,7 @@ Sort by,Sort by,module,Magento_Ui
 To Start,To Start,module,Magento_Ui
 To End,To End,module,Magento_Ui
 Past,Past,module,Magento_Ui
-Tooltip,Tooltip,module,Magento_Ui
+Tooltip,Toelichting,module,Magento_Ui
 The file upload field is disabled.,The file upload field is disabled.,module,Magento_Ui
 Entity with ID: %s doesn't exist,Entity with ID: %s doesn't exist,module,Magento_Ui
 Open in new tab,Open in new tab,module,Magento_Ui
@@ -2026,7 +2026,7 @@ Method Title,Methodetitel,module,Magento_Checkout
 Carrier Title,Vervoerdertitel,module,Magento_Checkout
 Shipping Methods,Verzendmethoden,module,Magento_Checkout
 Next,Volgende,module,Magento_Checkout
-"Sorry, no quotes are available for this order at this time","Sorry, er zijn op dit moment geen offertes beschikbaar voor deze bestelling",module,Magento_Checkout
+"Sorry, no quotes are available for this order at this time","Voor deze bestelling is momenteel geen verzendmethode beschikbaar.",module,Magento_Checkout
 Something went wrong with your request. Please try again later.,Er is iets misgegaan met uw verzoek. Probeer het later opnieuw.,module,Magento_Checkout
 Are you sure you want to remove all items from your shopping cart?,Weet u zeker dat u alle items uit uw winkelwagen wilt verwijderen?,module,Magento_Checkout
 Please specify a regionId in shipping address.,Geef een regio-ID op in het verzendadres.,module,Magento_Checkout
@@ -2541,7 +2541,7 @@ Incl. Tax,Incl. BTW,module,Magento_AdvancedCheckout
 Excl. Tax,Excl. BTW,module,Magento_AdvancedCheckout
 Edit item parameters,Wijzig product-parameters,module,Magento_AdvancedCheckout
 Edit,Bewerken,module,Magento_AdvancedCheckout
-Remove item,Verwijder dit artikel,module,Magento_AdvancedCheckout
+Remove item,Verwijder dit product,module,Magento_AdvancedCheckout
 Products Requiring Attention,Producten die aandacht behoeven,module,Magento_AdvancedCheckout
 Add to Cart,In Winkelwagen,module,Magento_AdvancedCheckout
 Sku,Art.nr.,module,Magento_AdvancedCheckout
@@ -2828,7 +2828,7 @@ Quantity,Aantal,module,Magento_Backend
 Views,Weergaven,module,Magento_Backend
 Revenue,Omzet,module,Magento_Backend
 Tax,BTW,module,Magento_Backend
-Shipping,Aflevering,module,Magento_Backend
+Shipping,Verzending,module,Magento_Backend
 "Images (.gif, .jpg, .png)","Afbeeldingen (.gif, .jpg, .png)",module,Magento_Backend
 All Files,Alle bestanden,module,Magento_Backend
 Reset to Default,Standaard herstellen,module,Magento_Backend
@@ -3657,7 +3657,7 @@ Last Name,Achternaam,module,Magento_Braintree
 Company,Bedrijf,module,Magento_Braintree
 Address,Adres,module,Magento_Braintree
 City,Plaatsnaam,module,Magento_Braintree
-State/Province,Staat/Provincie,module,Magento_Braintree
+State/Province,Provincie,module,Magento_Braintree
 "Please select region, state or province","Selecteer alstublieft regio, staat of provincie",module,Magento_Braintree
 Zip/Postal Code,Postcode,module,Magento_Braintree
 Submit,Bevestig,module,Magento_Braintree
@@ -4354,7 +4354,7 @@ In stock,Op voorraad,module,Magento_Catalog
 Out of stock,Niet op voorraad,module,Magento_Catalog
 Add to Wish List,Voeg toe aan verlanglijst,module,Magento_Catalog
 You have no items to compare.,Geen producten geselecteerd.,module,Magento_Catalog
-Remove This Item,Verwijder dit artikel,module,Magento_Catalog
+Remove This Item,Verwijder dit product,module,Magento_Catalog
 Compare,Vergelijken,module,Magento_Catalog
 Clear All,Alles wissen,module,Magento_Catalog
 Prev,Vorige,module,Magento_Catalog
@@ -4987,7 +4987,7 @@ Shopping Cart,Winkelwagen,module,Magento_Checkout
 Invalid method: %1,Ongeldige methode: %1,module,Magento_Checkout
 City,Plaatsnaam,module,Magento_Checkout
 Country,Land,module,Magento_Checkout
-State/Province,Staat/Provincie,module,Magento_Checkout
+State/Province,Provincie,module,Magento_Checkout
 Zip/Postal Code,Postcode,module,Magento_Checkout
 My Cart (1 item),Winkelwagen (1 product),module,Magento_Checkout
 My Cart (%1 items),Winkelwagen (%1 producten),module,Magento_Checkout
@@ -5054,13 +5054,13 @@ Qty,Aantal,module,Magento_Checkout
 Subtotal,Subtotaal,module,Magento_Checkout
 Continue Shopping,Ga verder met winkelen,module,Magento_Checkout
 Clear Shopping Cart,Leeg winkelwagen,module,Magento_Checkout
-Update Shopping Cart,Update Winkelwagen,module,Magento_Checkout
+Update Shopping Cart,Winkelwagen bijwerken,module,Magento_Checkout
 Update Cart,Bijwerken,module,Magento_Checkout
 See price before order confirmation.,Bekijk prijs voor bestelbevestiging.,module,Magento_Checkout
 What's this?,Wat is dit?,module,Magento_Checkout
 Edit item parameters,Wijzig product-parameters,module,Magento_Checkout
 Edit,Bewerken,module,Magento_Checkout
-Remove item,Verwijder dit artikel,module,Magento_Checkout
+Remove item,Verwijder dit product,module,Magento_Checkout
 You have no items in your shopping cart.,U heeft geen product(en) in uw winkelwagen.,module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","Klik <a href=""%1"">hier</a> om verder te gaan met winkelen.",module,Magento_Checkout
 Estimate Tax,Schat BTW,module,Magento_Checkout
@@ -5128,7 +5128,7 @@ Field ,Veld ,module,Magento_Checkout
 Are you sure you would like to remove this item from the shopping cart?,Weet u zeker dat u dit product wilt verwijderen uit de winkelwagen?,module,Magento_Checkout
 Review & Payments,Overzicht & betalen,module,Magento_Checkout
 Select a new payment method,Selecteer een nieuwe betaalmethode,module,Magento_Checkout
-Shipping,Aflevering,module,Magento_Checkout
+Shipping,Verzending,module,Magento_Checkout
 Save Address,Adres opslaan,module,Magento_Checkout
 Checkout Options,Betaalopties,module,Magento_Checkout
 Enable Onepage Checkout,OnePageCheckout (standaard Checkout) activeren,module,Magento_Checkout
@@ -5564,7 +5564,7 @@ Legal Address,Vestigingsadres,module,Magento_Company
 Street Address,Adres,module,Magento_Company
 City,Plaatsnaam,module,Magento_Company
 Country,Land,module,Magento_Company
-State/Province,Staat/Provincie,module,Magento_Company
+State/Province,Provincie,module,Magento_Company
 "Please select a region, state or province.","Selecteer regio, staat of provincie.",module,Magento_Company
 ZIP/Postal Code,Postcode,module,Magento_Company
 Phone Number,Telefoonnummer,module,Magento_Company
@@ -6707,7 +6707,7 @@ Assign a Customer Group,Klantgroep toewijzen,module,Magento_Customer
 Customer Grid,Klantentabel,module,Magento_Customer
 Rebuild Customer grid index,Klant-tabel index herbouwen,module,Magento_Customer
 Middle Name/Initial,Initialen,module,Magento_Customer
-State/Province,Staat/Provincie,module,Magento_Customer
+State/Province,Provincie,module,Magento_Customer
 VAT Number,BTW nummer,module,Magento_Customer
 Delete items,Items verwijderen,module,Magento_Customer
 Group,Groep,module,Magento_Customer
@@ -7024,7 +7024,7 @@ Address Attributes,Adres eigenschappen,module,Magento_CustomerSegment
 Customer Address %1,Klantadres %1,module,Magento_CustomerSegment
 Default Address,Standaard Adres,module,Magento_CustomerSegment
 Billing,Facturatie,module,Magento_CustomerSegment
-Shipping,Aflevering,module,Magento_CustomerSegment
+Shipping,Verzending,module,Magento_CustomerSegment
 Customer Address %1 Default %2 Address,Adres Klant %1 Standaard %2 Adres,module,Magento_CustomerSegment
 Has State/Province,Heeft Staat/Provincie,module,Magento_CustomerSegment
 If Customer Address %1 State/Province specified,Als Klantadres %1 Staat/Provincie opgegeven,module,Magento_CustomerSegment
@@ -7103,7 +7103,7 @@ Group,Groep,module,Magento_CustomerSegment
 Phone,Telefoonnummer,module,Magento_CustomerSegment
 ZIP,Postcode,module,Magento_CustomerSegment
 Country,Land,module,Magento_CustomerSegment
-State/Province,Staat/Provincie,module,Magento_CustomerSegment
+State/Province,Provincie,module,Magento_CustomerSegment
 Customer Since,Klant Sinds,module,Magento_CustomerSegment
 View Combined Report,Gecombineerd Rapport Inzien,module,Magento_CustomerSegment
 Set,Stel (noun) / Bevestigd / Vastgelegd,module,Magento_CustomerSegment
@@ -8001,7 +8001,7 @@ None,Geen,module,Magento_GiftRegistry
 New Address,Nieuw Adres,module,Magento_GiftRegistry
 Edit Gift Registry,Bewerk verlanglijst,module,Magento_GiftRegistry
 Create Gift Registry,Creëer verlanglijst,module,Magento_GiftRegistry
-State/Province,Staat/Provincie,module,Magento_GiftRegistry
+State/Province,Provincie,module,Magento_GiftRegistry
 "Please select a region, state or province","Selecteer regio, staat of provincie",module,Magento_GiftRegistry
 Please Select,Selecteer,module,Magento_GiftRegistry
 View Gift Registry %1,Bekijk mijn verlanglijst %1,module,Magento_GiftRegistry
@@ -8769,7 +8769,7 @@ items,producten,module,Magento_LayeredNavigation
 Now Shopping by,Huidige filters,module,Magento_LayeredNavigation
 Previous,Vorige,module,Magento_LayeredNavigation
 Remove,Verwijder,module,Magento_LayeredNavigation
-Remove This Item,Verwijder dit artikel,module,Magento_LayeredNavigation
+Remove This Item,Verwijder dit product,module,Magento_LayeredNavigation
 Shop By,Filteren,module,Magento_LayeredNavigation
 Clear All,Alles wissen,module,Magento_LayeredNavigation
 Shopping Options,Selectie verfijnen,module,Magento_LayeredNavigation
@@ -9112,7 +9112,7 @@ Send To,Verzenden naar,module,Magento_Multishipping
 A shipping selection is not applicable.,Verzendselectie is niet van toepassing.,module,Magento_Multishipping
 Actions,Acties,module,Magento_Multishipping
 Remove Item,Product verwijderen,module,Magento_Multishipping
-Remove item,Verwijder dit artikel,module,Magento_Multishipping
+Remove item,Verwijder dit product,module,Magento_Multishipping
 Go to Shipping Information,Ga naar verzendgegevens,module,Magento_Multishipping
 Update Qty &amp; Addresses,Aantallen en adressen bijwerken,module,Magento_Multishipping
 Enter a New Address,Voer een nieuw adres in,module,Magento_Multishipping
@@ -9460,7 +9460,7 @@ Send for Review,Verstuur voor beoordeling,module,Magento_NegotiableQuote
 Proceed to Checkout,Ga door naar afrekenen,module,Magento_NegotiableQuote
 Close quote,Offerte sluiten,module,Magento_NegotiableQuote
 Delete,Verwijder,module,Magento_NegotiableQuote
-Remove item,Verwijder dit artikel,module,Magento_NegotiableQuote
+Remove item,Verwijder dit product,module,Magento_NegotiableQuote
 Product Name,Product Naam,module,Magento_NegotiableQuote
 Price,prijs,module,Magento_NegotiableQuote
 Quote Items,Geoffreerde artikelen,module,Magento_NegotiableQuote
@@ -9835,7 +9835,7 @@ Switch/Solo/Maestro Start Date,Begindatum Switch/Solo/Maestro,module,Magento_Pay
 We cannot retrieve the transparent payment method model object.,Kan modelobject transparante betalingsmethode niet ophalen.,module,Magento_Payment
 Transaction has been declined. Please try again later.,Transactie is afgewezen. Probeer het later nog eens.,module,Magento_Payment
 Discount,Korting,module,Magento_Payment
-Shipping,Aflevering,module,Magento_Payment
+Shipping,Verzending,module,Magento_Payment
 All Allowed Countries,Alle toegestane landen,module,Magento_Payment
 Specific Countries,Bepaalde landen,module,Magento_Payment
 The payment method you requested is not available.,De betalingsmethode die u hebt aangevraagd is niet beschikbaar.,module,Magento_Payment
@@ -10421,7 +10421,7 @@ The address model is not defined.,De adres-model is niet gedefinieerd.,module,Ma
 Grand Total,Eindtotaal,module,Magento_Quote
 Shipping & Handling (%1),Verzending & verwerking (%1),module,Magento_Quote
 Shipping & Handling,Verzending en verwerking,module,Magento_Quote
-Shipping,Aflevering,module,Magento_Quote
+Shipping,Verzending,module,Magento_Quote
 Subtotal,Subtotaal,module,Magento_Quote
 We found an invalid item option format.,We vonden een ongeldig optie formaat.,module,Magento_Quote
 An item option with code %1 already exists.,Een product optie met code %1 bestaad reeds.,module,Magento_Quote
@@ -10674,7 +10674,7 @@ Refunded,Teruggestort,module,Magento_Reports
 Sales Tax,BTW,module,Magento_Reports
 Tax,BTW,module,Magento_Reports
 Sales Shipping,Verkoop verzending,module,Magento_Reports
-Shipping,Aflevering,module,Magento_Reports
+Shipping,Verzending,module,Magento_Reports
 Canceled,Geannuleerd,module,Magento_Reports
 Total Shipped Report,Rapportage Totaal Verzonden,module,Magento_Reports
 Carrier/Method,Vervoeder/Methode,module,Magento_Reports
@@ -10873,7 +10873,7 @@ Subtotal,Subtotaal,module,Magento_RequisitionList
 SKU,Art.nr.,module,Magento_RequisitionList
 Excl. Tax,Excl. BTW,module,Magento_RequisitionList
 Edit item,Artikel bewerken,module,Magento_RequisitionList
-Remove item,Verwijder dit artikel,module,Magento_RequisitionList
+Remove item,Verwijder dit product,module,Magento_RequisitionList
 Select all,Alles selecteren,module,Magento_RequisitionList
 With Selected,Met geselecteerde,module,Magento_RequisitionList
 Copy Selected,Kopieer geselecteerde,module,Magento_RequisitionList
@@ -11508,7 +11508,7 @@ Use Store Address,Gebruik winkeladres,module,Magento_Rma
 Contact Name,contact naam,module,Magento_Rma
 Street Address,Adres,module,Magento_Rma
 City,Plaatsnaam,module,Magento_Rma
-State/Province,Staat/Provincie,module,Magento_Rma
+State/Province,Provincie,module,Magento_Rma
 ZIP/Postal Code,Postcode,module,Magento_Rma
 Country,Land,module,Magento_Rma
 Enabled,Ingeschakeld,module,Magento_Rma
@@ -11576,7 +11576,7 @@ Invoices,Facturen,module,Magento_Sales
 We can't get the order instance right now.,Orderexemplaar kan niet worden verkregen.,module,Magento_Sales
 Create New Order,Nieuwe bestelling aanmaken,module,Magento_Sales
 Save Order Address,Bestelling-adres opslaan,module,Magento_Sales
-Shipping,Aflevering,module,Magento_Sales
+Shipping,Verzending,module,Magento_Sales
 Billing,Facturatie,module,Magento_Sales
 Edit Order %1 %2 Address,Wijzig bestelling %1 %2 adres,module,Magento_Sales
 Order Address Information,Bestelling adres-informatie,module,Magento_Sales
@@ -11981,7 +11981,7 @@ Country,Land,module,Magento_Sales
 Email,E-mail,module,Magento_Sales
 First Name,Voornaam,module,Magento_Sales
 Last Name,Achternaam,module,Magento_Sales
-State/Province,Staat/Provincie,module,Magento_Sales
+State/Province,Provincie,module,Magento_Sales
 Street Address,Adres,module,Magento_Sales
 Phone Number,Telefoonnummer,module,Magento_Sales
 Zip/Postal Code,Postcode,module,Magento_Sales
@@ -12998,7 +12998,7 @@ Assign Catalog,Wijs catalogus toe,module,Magento_SharedCatalog
 Unassign Catalog,Ontkoppel catalogus,module,Magento_SharedCatalog
 Company,Bedrijf,module,Magento_SharedCatalog
 Country,Land,module,Magento_SharedCatalog
-State/Province,Staat/Provincie,module,Magento_SharedCatalog
+State/Province,Provincie,module,Magento_SharedCatalog
 Assigned,Toegewezen,module,Magento_SharedCatalog
 Catalog,Catalogus,module,Magento_SharedCatalog
 Action,Actie,module,Magento_SharedCatalog
@@ -15039,7 +15039,7 @@ In stock,Op voorraad,module,Magento_Wishlist
 Out of stock,Niet op voorraad,module,Magento_Wishlist
 Edit,Bewerken,module,Magento_Wishlist
 Remove Item,Product verwijderen,module,Magento_Wishlist
-Remove item,Verwijder dit artikel,module,Magento_Wishlist
+Remove item,Verwijder dit product,module,Magento_Wishlist
 Add to Compare,Toevoegen om te vergelijken,module,Magento_Wishlist
 This Wish List has no Items,De verlanglijst heeft geen producten,module,Magento_Wishlist
 %1 has been added to your Wish List.,%1 is toegevoegd aan uw verlanglijst.,module,Magento_Wishlist
@@ -15054,7 +15054,7 @@ Sharing Information,Informatie delen,module,Magento_Wishlist
 "Email addresses, separated by commas","E-mailadressen, gescheiden door komma’s",module,Magento_Wishlist
 Check here to link an RSS feed to your Wish List.,Klik hier als u een RSS feed wil koppelen aan uw verlanglijst.,module,Magento_Wishlist
 Last Added Items,Laatst toegevoegde artikelen,module,Magento_Wishlist
-Remove This Item,Verwijder dit artikel,module,Magento_Wishlist
+Remove This Item,Verwijder dit product,module,Magento_Wishlist
 Go to Wish List,Ga naar verlanglijst,module,Magento_Wishlist
 You have no items in your wish list.,U hebt niets op uw verlanglijst staan.,module,Magento_Wishlist
 Take a look at %customer_name's Wish List,Bekijk %customer_name's verlanglijst,module,Magento_Wishlist
@@ -15148,7 +15148,7 @@ My Account,Account,theme,frontend/Magento/blank
 Now Shopping by,Huidige filters,theme,frontend/Magento/luma
 Previous,Vorige,theme,frontend/Magento/luma
 Remove,Verwijder,theme,frontend/Magento/luma
-Remove This Item,Verwijder dit artikel,theme,frontend/Magento/luma
+Remove This Item,Verwijder dit product,theme,frontend/Magento/luma
 Shop By,Filteren,theme,frontend/Magento/luma
 Clear All,Alles wissen,theme,frontend/Magento/luma
 Shopping Options,Selectie verfijnen,theme,frontend/Magento/luma
