@@ -15315,3 +15315,4 @@ Your Cart,Uw winkelwagen,module,Magento_Checkout
 Toggle Nav,Menu,module,Magento_Theme
 Customer Login,Klant inloggen,module,Magento_Customer
 Legal guarantee notice,Wettelijke garantiekennisgeving,module,Swissup_CheckoutConsumerRights
+"The store will not work correctly when cookies are disabled.","De winkel werkt niet correct wanneer cookies zijn uitgeschakeld.",module,Magento_Theme
