@@ -15316,3 +15316,8 @@ Toggle Nav,Menu,module,Magento_Theme
 Customer Login,Klant inloggen,module,Magento_Customer
 Legal guarantee notice,Wettelijke garantiekennisgeving,module,Swissup_CheckoutConsumerRights
 "The store will not work correctly when cookies are disabled.","De winkel werkt niet correct wanneer cookies zijn uitgeschakeld.",module,Magento_Theme
+Your card has insufficient funds. Use a different payment method to complete this purchase.,Uw kaart heeft onvoldoende saldo. Gebruik een andere betaalmethode om deze aankoop te voltooien.
+Your card was declined.,Uw kaart is geweigerd.
+Your card has expired.,Uw kaart is verlopen.
+Your card's security code is incorrect.,De beveiligingscode van uw kaart is onjuist.
+"The card couldn't be processed. Try the payment again. If it still fails, contact your card issuer.","De kaart kon niet worden verwerkt. Probeer de betaling opnieuw. Als het nog steeds mislukt, neem dan contact op met uw kaartuitgever."
